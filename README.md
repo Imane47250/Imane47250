@@ -12,12 +12,6 @@ Passionate about mathematics and IT I'm aspiring to combine those fields to crea
 * 🤝  I'm open to collaborating on Cryptography
 
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Imane47250" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
-### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Imane47250"><img src="https://github-readme-stats.vercel.app/api?username=Imane47250&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Imane47250's GitHub stats" /></a>
