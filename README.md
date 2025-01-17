@@ -7,7 +7,7 @@ I'm an Applied mathematics student and an IT curious.
 Passionate about mathematics and IT I'm aspiring to combine those fields to create new useful tools especially in Cybersecurity.
 
 * 🌍  I'm based in France
-* 🧠  I'm learning software engineering @ ALX SE and cybersecurity @ try hack me
+* 🧠  I'm learning Cryptography @ Limoges' University and cybersecurity @ try hack me
 * 🤝  I'm open to collaborating on Cryptography
 
 
